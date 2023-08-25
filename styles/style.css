@@ -1,0 +1,22 @@
+h1, h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+
+#hero_image {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    background-color:azure
+}
